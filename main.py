@@ -1,5 +1,3 @@
-import re
-from turtle import distance, update
 import pygame as pg
 import math
 
